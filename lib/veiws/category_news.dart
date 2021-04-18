@@ -78,7 +78,7 @@ class _CategoryVeiwsState extends State<CategoryVeiws> {
           ),
     );
   }
-}
+}//Bolgtitlie
 
 class BolgTite extends StatelessWidget {
   final String imageUrl, tite, desc, url;
